@@ -1,7 +1,7 @@
-#cc_validation
+# cc_validation
 =============
 
-#cut down on Customer Service typos by validating any credit card using the Luhn Algorithm  
+# cut down on Customer Service typos by validating any credit card using the Luhn Algorithm  
 
 class CreditCard
   def initialize(cardnum)
